@@ -1,2 +1,6 @@
 body {
-    background-image:url(csspic1.jpeg) ;}
+  background-image: url(csspic1.jpeg);
+}
+img {
+  height: 250px;
+}
