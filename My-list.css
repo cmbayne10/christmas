@@ -7,6 +7,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 10px;
 }
 article {
   width: 100%;
@@ -16,9 +17,13 @@ table {
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
+  width: 80%;
+  background-color: red;
 }
 td {
   border: 2px solid black;
+  background-color: rgb(33, 124, 45);
+  padding-left: 20px;
 }
 h4 {
   color: black;
